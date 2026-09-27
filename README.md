@@ -1,2 +1,4 @@
-# divvy-cyclistic-case-study
-Google Data Analytics Capstone Project: Analyzing Divvy/Cyclistic historical trip data to identify differences between casual riders and annual members, delivering data-backed strategies for membership conversion.
+![Bike Ride](https://github.com/Databykelly/divvy-cyclistic-case-study/raw/main/images/CASE%20STUDY%20BIKE%20RIDE%20PICTURE.jpg)
+
+# Divvy Exercise Case Study
+*Google Data Analyst Capstone Project*
